@@ -1,0 +1,10 @@
+{
+  "firstName": "test1",
+  "lastName": "user",
+  "country": "India",
+  "streetAddress": "Gachibowli",
+  "city": "Hyderabad",
+  "state": "Telangana",
+  "zipCode": "500014",
+  "emailAddress": "test1user@gmail.com"
+}
